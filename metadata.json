@@ -1,0 +1,6 @@
+{
+  "name": "MISVI Toys - D2C Storefront",
+  "description": "Educational, musical, and interactive toys for toddlers and kids with Cashfree checkout and Gemini AI shopping advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
